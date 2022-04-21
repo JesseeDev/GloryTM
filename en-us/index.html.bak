@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Glory™ - Home</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link rel="icon" href="images/hidden.png" />
+    <script src="../kit.fontawesome.com/a076d05399.js"></script>
+
+    <script src="../code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script src="../cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+
+    <script src="../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+    <script src="../cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+
+    <link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="aos/aos.css" />
+
+    <meta property="og:type" content="website" />
+
+    <meta property="og:title" content="Glory™" />
+
+    <meta property="og:description" content="The best ever discord bot you need to get for your server." />
+
+    <meta property="og:image"
+        content="https://cdn.discordapp.com/avatars/884467910494535741/bc234bcaa657eb4ecdf8f56a13c9cf9a.png?size=1024" />
+
+    <meta name="theme-color" content="#22b4b7" />
+</head>
+
+<body>
+    <div id="particles-js"></div>
+
+    <div class="scroll-up-btn">
+        <i class="fas fa-angle-up"></i>
+    </div>
+
+    <nav class="navbar">
+        <div class="max-width">
+            <div class="logo">
+                <a href="#" title="sup bro :))">Home<span></span></a>
+            </div>
+
+            <ul class="menu">
+                <li><a href="dashboard/dashboard.html" class="menu-btn">Dashboard</a></li>
+                <li><a href="invite/invite.html" class="menu-btn">Invite</a></li>
+                <li><a href="#features" class="menu-btn" class="menu-btn">Features</a></li>
+                <li><a href="discord/discord.html" class="menu-btn">Discord</a></li>
+
+
+            </ul>
+
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">bonk!</div>
+
+                <div class="text-2">Glory™</div>
+                <a class="dashandinvite" href="invite/invite.html" title="pick meeee">Invite</a>
+                <a class="dashandinvite" href="dashboard/dashboard.html" title="Temporarily down">Dashboard</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="features" id="features">
+        <div class="max-width">
+            <h2 class="title">Features</h2>
+
+            <div class="features-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-aio"></i>
+
+                        <div class="text">All In One</div>
+
+                        <p>Glory is a bot with a lot of All-In-One features made up with it, That you can find in help commands.
+                        </p><a class="easter" title="Never gonna give you up (easter egg lol)">.</a>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-support"></i>
+
+                        <div class="text">Live Support</div>
+
+                        <p>Our team bring as fast as possible support to our users in our Discord Community.
+                        </p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-free"></i>
+
+                        <div class="text">Free</div>
+
+                        <p>Glory give all features for free just for all of you. Consider donating?
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-247"></i>
+
+                        <div class="text">24/7</div>
+
+                        <p>
+                            Glory made to stay online 24/7 without any downtime, if you want more information just go to
+                            our discord server to see when the bot down or on.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-performance"></i>
+
+                        <div class="text">Performance</div>
+
+                        <p>
+                            Our team making Glory performance better and give the best performance to our users who used glory.
+                        </p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-advanced"></i>
+
+                        <div class="text">Advanced</div>
+
+                        <p>
+                            Glory have a lot of advanced features that easy-to-use in your server.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contributors" id="contributors">
+        <div class="max-width">
+            <h2 class="title">
+                Team
+            </h2>
+            <div class="carousel owl-carousel">
+
+                <div class="cardd">
+                    <div class="boxx">
+                        <img src="images/hidden.png" alt>
+                        <p class="text" href="https://jessee.tk">Jesse</p>
+                        <p>
+                            <button class="badges owner">Founder</button>
+                            <button class="badges developer">Developer</button>
+                            <button class="badges performance">Performance</button>
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="cardd">
+                    <div class="boxx">
+                        <img src="images/hidden.png" alt>
+                        <p class="text" href="https://daniel.com">Dannis</p>
+                        <p>
+
+                            <button class="badges helper">Helper</button>
+                            <button class="badges performance">Performance</button>
+                        </p>
+                    </div>
+                </div>
+
+
+                <div class="cardd">
+                    <div class="boxx">
+                        <img src="images/hidden.png" alt>
+                        <p class="text" href="https://jakes.com">Loiyang</p>
+                        <p>
+                            <button class="badges helper">Helper</button>
+                            <button class="badges performance">Performance</button>
+                            <button class="badges developer">Artist</button>
+                        </p>
+                    </div>
+                </div>
+
+                <div class="cardd">
+                    <div class="boxx">
+                        <img src="images/hidden.png" alt>
+                        <p class="text" href="https://frontm.com">FrontMan</p>
+                        <p>
+                            <button class="badges helper">Helper</button>
+                            <button class="badges developer">Developer</button>
+                            <button class="badges designer">SOTM</button>
+                        </p>
+                    </div>
+                </div>
+
+
+
+    </section>
+    <footer>
+        <div class="flex container">
+            <p>Copyright© 2022 The Glory Inc. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="aos/aos.js"></script>
+
+    <script type="text/javascript">
+        AOS.init({
+            duration: 1000
+        });
+    </script>
+
+    <script src="script.js"></script>
+
+    <script src="stats.js"></script>
+
+    <script>
+        $(window).on("load", function () {
+            $(".loader-wrapper").fadeOut("slow");
+        });
+    </script>
+
+    <script src="particles/particles.js"></script>
+
+    <script src="particles/app.js"></script>
+</body>
+
+</html>
